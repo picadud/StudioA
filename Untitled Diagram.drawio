@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T16:11:06.313Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="niKEuPm4WD1jzXE1PmlW" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T16:11:42.189Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="kOixlPEtUAYgFY2JoLnR" version="23.0.2" type="github">
   <diagram name="Page-1" id="AQnmTH0_qh68zYkQemqw">
     <mxGraphModel dx="2454" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
         <mxCell id="UJjfvKdk2zLMUdunDecw-15" value="order have tax, take in product and customer." style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-330" y="20" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UJjfvKdk2zLMUdunDecw-18" value="&lt;div&gt;todo list&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UJjfvKdk2zLMUdunDecw-18" value="&lt;div&gt;todo list&lt;/div&gt;&lt;div&gt;connect everyone&lt;/div&gt;&lt;div&gt;and finalize things&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-710" y="70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
