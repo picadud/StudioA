@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T15:11:09.314Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="2o5qLQIeQ-5ZvWFgbkrr" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T15:12:21.484Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="jMnLwrQ3tNS8L-43ffG8" version="23.1.0" type="github">
   <diagram name="Page-1" id="AQnmTH0_qh68zYkQemqw">
-    <mxGraphModel dx="2778" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="2298" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="zyU8qcK_vowsJ__0V0aZ-9" value="&lt;div&gt;+ getSegmentTree(Segment): List[Segment)&lt;/div&gt;&lt;div&gt;+ getProductList(s: List[Segment]): List[Product]&lt;/div&gt;&lt;div&gt;# updateOrder(o: Order, s: OrderStatus): Unit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="zyU8qcK_vowsJ__0V0aZ-6" vertex="1">
           <mxGeometry y="128" width="330" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="zyU8qcK_vowsJ__0V0aZ-10" value="&lt;div&gt;«trait»&lt;/div&gt;&lt;div&gt;&lt;b&gt;customer&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;responsibility:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. search products&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. make orders&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. log in / register&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;4.add things to shopping cart&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;5. have info, view history, order history, business info ...&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;can check order progress&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-830" y="750" width="110" height="240" as="geometry" />
         </mxCell>
         <mxCell id="zyU8qcK_vowsJ__0V0aZ-16" value="loggedin " style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="-200" width="260" height="390" as="geometry" />
